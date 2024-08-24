@@ -1,1 +1,1 @@
-Start a new Journey with Crispy ReactJS
+Start a new Journey with Crispy React JS
