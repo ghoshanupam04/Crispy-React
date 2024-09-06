@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  let [count, setCount] = useState(0);
+  const [count, setCount] = useState(0);
   //let count= 15
   const increase = () => {
     console.log("Hello Coders", count);
